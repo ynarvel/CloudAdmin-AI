@@ -63,37 +63,28 @@ CloudAdmin-AI is designed around a controlled execution model:
 ```text
 
 Discovery
-
-&#x20;   â†“
-
+   |
+   v
 Dependency Analysis
-
-&#x20;   â†“
-
+   |
+   v
 Implementation Plan
-
-&#x20;   â†“
-
+   |
+   v
 Explicit Confirmation
-
-&#x20;   â†“
-
+   |
+   v
 Execute Approved Actions
-
-&#x20;   â†“
-
+   |
+   v
 Query Microsoft Again
-
-&#x20;   â†“
-
+   |
+   v
 Verify Expected State
-
-&#x20;   â†“
-
+   |
+   v
 Write Audit Record
-
-&#x20;   â†“
-
+   |
+   v
 Final Status
-
 
